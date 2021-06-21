@@ -1,0 +1,21 @@
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\bin\Debug\abc.exe
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\bin\Debug\abc.pdb
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\obj\Debug\abc.MainForm.resources
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\obj\Debug\abc.exe
+C:\Users\walzju\Documents\SharpDevelop Projects\abc\abc\obj\Debug\abc.pdb
+C:\Users\User\Downloads\abc\abc\abc\bin\Debug\abc.exe
+C:\Users\User\Downloads\abc\abc\abc\bin\Debug\abc.pdb
+C:\Users\User\Downloads\abc\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\abc\abc\abc\obj\Debug\abc.MainForm.resources
+C:\Users\User\Downloads\abc\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\abc\abc\abc\obj\Debug\abc.exe
+C:\Users\User\Downloads\abc\abc\abc\obj\Debug\abc.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\bin\Debug\abc.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\bin\Debug\abc.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\obj\Debug\abc.MainForm.resources
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\obj\Debug\abc.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\abc\obj\Debug\abc.pdb
