@@ -61,7 +61,7 @@ namespace abc
 		void Button2MouseEnter(object sender, EventArgs e)
 		{
 			  Random random= new Random();
-			  button2.Location = new Point(random.Next(0, this.Width - button2.Size.Width), random.Next(0, this.Height - 4*button2.Size.Height));
+			  button2.Location = new Point(random.Next(0, this.ClientSize.Width - button2.Size.Width), random.Next(0, this.ClientSize.Height - button2.Size.Height));
 			  //
 		}
 		
