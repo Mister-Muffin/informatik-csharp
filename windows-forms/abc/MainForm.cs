@@ -67,7 +67,26 @@ namespace abc
 		
 		void Button2Click(object sender, EventArgs e)
 		{
-			
+			timer1.Stop();
+		}
+		
+		void MainFormLoad(object sender, EventArgs e)
+		{
+			FormBorderStyle = FormBorderStyle.None;
+WindowState = FormWindowState.Maximized;
+		}
+		
+		void MainFormClick(object sender, EventArgs e)
+		{
+			Random rnd = new Random();
+		
+			this.BackColor = Color.FromArgb(rnd.Next(0, 255),rnd.Next(0, 255),rnd.Next(0, 255));
+		}
+		
+		void Timer1Tick(object sender, EventArgs e)
+		{
+			Random rnd = new Random();
+			this.BackColor = Color.FromArgb(rnd.Next(0, 255),rnd.Next(0, 255),rnd.Next(0, 255));
 		}
 	}
 }

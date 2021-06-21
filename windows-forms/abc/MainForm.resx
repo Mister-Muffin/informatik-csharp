@@ -117,4 +117,84 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA
+        AADhAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP//////////////////////////////
+        ///60ND/4hAQ/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/sYGD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA////////////////////
+        ///////////////////60ND/4hAQ/+EAAP/hAAD/4QAA/+EAAP/hAAD/7GBg///////hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/////////
+        ///////////////////////////////////60ND/4hAQ/+EAAP/hAAD/4QAA/+xgYP///////////+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/////////////////////////////////////////////////60ND/4hAQ/+EAAP/sYGD/////////
+        ////////4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA///////////////////////4v7//8H9///B/f//wf3//8H9///B/f//qUFD/5jAw////
+        ///////////////////hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD///////////////////////CAgP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/oQED//////////////////////+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/60ND/////////////////8ICA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+hAQP//////////////////////4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+IQEP/6z8/////////////wgID/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/6EBA///////////////////////hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+IQEP/6z8////////CA
+        gP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/oQED//////////////////////+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+IQ
+        EP/6z8//8ICA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+hAQP//////////////////////4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+IQEP/qUFD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/6EBA////////////////////
+        ///hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+YwMP/oQED/6EBA/+hAQP/oQED/6EBA/+hAQP/ucHD/////////
+        /////////////+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/sYGD/////////////////////////////////////////
+        ////////////////////////4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/7GBg////////////////////////////////////
+        ///////////////////////////////////hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+xgYP//////////////////////////////
+        /////////////////////////////////////////////+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/sYGD/////////////////////////
+        ////////////////////////////////////////////////////////4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EAAP/hAAD/4QAA/+EA
+        AP/hAAD/4QAA/+EAAP/hAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
 </root>
