@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\bin\Debug\Tabellen Sachen.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\bin\Debug\Tabellen Sachen.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\obj\Debug\Tabellen Sachen.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\obj\Debug\Tabellen_Sachen.MainForm.resources
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\obj\Debug\Tabellen Sachen.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\obj\Debug\Tabellen Sachen.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\Tabellen Sachen\obj\Debug\Tabellen Sachen.pdb

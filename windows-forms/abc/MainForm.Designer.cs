@@ -158,6 +158,7 @@ namespace abc
 			this.Name = "MainForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "abc";
+			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainFormFormClosing);
 			this.Load += new System.EventHandler(this.MainFormLoad);
 			this.Click += new System.EventHandler(this.MainFormClick);
 			this.ResumeLayout(false);

