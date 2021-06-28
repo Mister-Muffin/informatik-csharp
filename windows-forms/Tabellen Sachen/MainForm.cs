@@ -60,7 +60,7 @@ namespace Tabellen_Sachen
             }
 
             dataGridView1.DataSource = table;
-            
+
             button1.Enabled = true;
         }
 
@@ -76,7 +76,7 @@ namespace Tabellen_Sachen
                     boys++;
                 }
             }
-            
+
             return boys;
 
         }
@@ -104,16 +104,34 @@ namespace Tabellen_Sachen
             return result;
         }
 
-		
-		void Button1Click(object sender, EventArgs e)
-		{
-			button1.Enabled = false;
-			try
+
+        void Button1Click(object sender, EventArgs e)
+        {
+            button1.Enabled = false;
+            try
             {
                 Start(Clamp(Convert.ToInt32(textBox1.Text), 10, 1));
             }
             catch (Exception ignored) { }
-		}
+        }
     }
 
 }
+
+/*
+Antworten Fragen 1-3
+1: Nein!
+2:
+            table.Columns.Add("Anzahl Jungen", typeof(int));
+            table.Columns.Add("Anzahl Mädchen", typeof(int));
+            table.Columns.Add("Sachen", typeof(float)); 
+
+            for (int i = 0; i < 10; i++)
+            {
+                table.Rows.Add(i, 0, (double)arr[i]);
+            }
+
+3: table.Rows[].SetField(int columnIndex, T vieldValue)
+4: Der Program von oben si wissen bescheid
+5: Reis!
+*/
