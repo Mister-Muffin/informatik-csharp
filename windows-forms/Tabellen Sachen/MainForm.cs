@@ -132,6 +132,6 @@ Antworten Fragen 1-3
             }
 
 3: table.Rows[].SetField(int columnIndex, T vieldValue)
-4: Der Program von oben si wissen bescheid
+4: Der Program von oben. Müssen sie wissen.
 5: Reis!
 */
