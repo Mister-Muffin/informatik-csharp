@@ -45,43 +45,44 @@ namespace so_gemeinsamer_nenner_oder_ja
 			// 
 			// textBox1
 			// 
-			this.textBox1.Location = new System.Drawing.Point(79, 80);
+			this.textBox1.Location = new System.Drawing.Point(153, 70);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.Size = new System.Drawing.Size(100, 20);
 			this.textBox1.TabIndex = 0;
 			// 
 			// textBox2
 			// 
-			this.textBox2.Location = new System.Drawing.Point(304, 80);
+			this.textBox2.Location = new System.Drawing.Point(269, 70);
 			this.textBox2.Name = "textBox2";
 			this.textBox2.Size = new System.Drawing.Size(100, 20);
 			this.textBox2.TabIndex = 1;
 			// 
 			// button1
 			// 
-			this.button1.Location = new System.Drawing.Point(237, 151);
+			this.button1.Location = new System.Drawing.Point(223, 168);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(75, 23);
 			this.button1.TabIndex = 2;
-			this.button1.Text = "button1";
+			this.button1.Text = "Rekursiv";
 			this.button1.UseVisualStyleBackColor = true;
 			this.button1.Click += new System.EventHandler(this.Button1Click);
 			// 
 			// label1
 			// 
-			this.label1.Location = new System.Drawing.Point(223, 111);
+			this.label1.Location = new System.Drawing.Point(223, 118);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(100, 23);
+			this.label1.Size = new System.Drawing.Size(75, 23);
 			this.label1.TabIndex = 3;
-			this.label1.Text = "label1";
+			this.label1.Text = "-";
+			this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			// 
 			// button2
 			// 
-			this.button2.Location = new System.Drawing.Point(236, 219);
+			this.button2.Location = new System.Drawing.Point(223, 197);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(75, 23);
 			this.button2.TabIndex = 4;
-			this.button2.Text = "button2";
+			this.button2.Text = "Absolut";
 			this.button2.UseVisualStyleBackColor = true;
 			this.button2.Click += new System.EventHandler(this.Button2Click);
 			// 
