@@ -9,11 +9,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("so gemeinsamer nenner oder ja")]
+[assembly: AssemblyTitle("ggT")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("so gemeinsamer nenner oder ja")]
+[assembly: AssemblyProduct("ggT")]
 [assembly: AssemblyCopyright("Copyright 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace so_gemeinsamer_nenner_oder_ja {
+namespace ggT {
     /// <summary>
     /// Description of MainForm.
     /// </summary>

@@ -6,7 +6,7 @@
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
-namespace so_gemeinsamer_nenner_oder_ja
+namespace ggT
 {
 	partial class MainForm
 	{

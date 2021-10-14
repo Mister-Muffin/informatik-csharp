@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ggT\obj\Debug\ggT.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ggT\bin\Debug\ggT.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ggT\bin\Debug\ggT.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ggT\obj\Debug\ggT.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ggT\obj\Debug\ggT.pdb

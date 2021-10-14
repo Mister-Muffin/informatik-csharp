@@ -1,15 +1,15 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: User
- * Date: 30.09.2021
- * Time: 14:49
+ * Date: 14.10.2021
+ * Time: 21:17
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.Windows.Forms;
 
-namespace so_gemeinsamer_nenner_oder_ja
+namespace ggT
 {
 	/// <summary>
 	/// Class with program entry point.
