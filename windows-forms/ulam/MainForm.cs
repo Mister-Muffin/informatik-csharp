@@ -37,7 +37,7 @@ namespace ulam {
         }
 
         void TextFieldNTextChanged(object sender, EventArgs e) {
-            textFieldN.Text = a(textFieldN.Text);
+            textFieldN.Text = a(textFieldN.Text); //Nicht relevant für die Aufgabe
             //
             counter = 0;
             try {
@@ -46,7 +46,7 @@ namespace ulam {
                 label1.Text = "Exception";
             }
         }
-        //---------------------------------------------------------
+        //Nicht relevant für die Aufgabe
         private string a(string text) {
             try {
                 if (text.Contains("+")) {
