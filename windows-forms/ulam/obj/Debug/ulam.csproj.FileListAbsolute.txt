@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\obj\Debug\ulam.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\obj\Debug\ulam.MainForm.resources
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\obj\Debug\ulam.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\bin\Debug\ulam.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\bin\Debug\ulam.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\obj\Debug\ulam.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\ulam\obj\Debug\ulam.pdb
