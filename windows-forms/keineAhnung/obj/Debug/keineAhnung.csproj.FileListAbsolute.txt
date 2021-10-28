@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\obj\Debug\keineAhnung.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\obj\Debug\keineAhnung.MainForm.resources
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\obj\Debug\keineAhnung.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\bin\Debug\keineAhnung.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\bin\Debug\keineAhnung.pdb
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\obj\Debug\keineAhnung.exe
+C:\Users\User\Documents\Entwicklung\c#\informatik-csharp\windows-forms\keineAhnung\obj\Debug\keineAhnung.pdb
